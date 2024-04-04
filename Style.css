@@ -56,6 +56,7 @@ header {
   justify-content: space-between;
   display: flex;
   flex-direction: row;
+width: 100%;
   
     div > p {
       margin-left: 1vw;
@@ -66,7 +67,7 @@ header {
       margin-left: 0.1vw;
     }
     div > img {
-    border-radius: 100%;
+    border-radius: 100px;
     border: 1vw solid;
     border-color: #F3EEEA;
     margin-left: 0.5vw;
