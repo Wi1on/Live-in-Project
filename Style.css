@@ -67,7 +67,7 @@ width: 100%;
       margin-left: 0.1vw;
     }
     div > img {
-    border-radius: 100px;
+    border-radius: 100%;
     border: 1vw solid;
     border-color: #F3EEEA;
     margin-left: 0.5vw;
