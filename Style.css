@@ -1,4 +1,7 @@
-
+img {
+    border: 1vw solid;
+    border-radius: 100%;
+}
 body {
     background: #CED2D9;
 }
